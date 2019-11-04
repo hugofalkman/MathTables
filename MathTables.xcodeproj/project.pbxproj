@@ -13,6 +13,7 @@
 		B101B6D6236F7B6200FE8779 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B101B6D5236F7B6200FE8779 /* Assets.xcassets */; };
 		B101B6D9236F7B6200FE8779 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B101B6D8236F7B6200FE8779 /* Preview Assets.xcassets */; };
 		B101B6DC236F7B6200FE8779 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B101B6DA236F7B6200FE8779 /* LaunchScreen.storyboard */; };
+		B101B6E4236F7E9200FE8779 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = B101B6E3236F7E9200FE8779 /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B101B6D8236F7B6200FE8779 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B101B6DB236F7B6200FE8779 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B101B6DD236F7B6200FE8779 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B101B6E3236F7E9200FE8779 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B101B6CF236F7B5F00FE8779 /* AppDelegate.swift */,
 				B101B6D1236F7B5F00FE8779 /* SceneDelegate.swift */,
 				B101B6D3236F7B5F00FE8779 /* ContentView.swift */,
+				B101B6E3236F7E9200FE8779 /* Question.swift */,
 				B101B6D5236F7B6200FE8779 /* Assets.xcassets */,
 				B101B6DA236F7B6200FE8779 /* LaunchScreen.storyboard */,
 				B101B6DD236F7B6200FE8779 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B101B6D0236F7B5F00FE8779 /* AppDelegate.swift in Sources */,
+				B101B6E4236F7E9200FE8779 /* Question.swift in Sources */,
 				B101B6D2236F7B5F00FE8779 /* SceneDelegate.swift in Sources */,
 				B101B6D4236F7B5F00FE8779 /* ContentView.swift in Sources */,
 			);
